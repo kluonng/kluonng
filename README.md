@@ -1,16 +1,17 @@
-## Hi there 👋
+# About Me
 
-<!--
-**kluonng/kluonng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi, I'm Kevin.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I attended San José State University and earned a Bachelor of Science degree in Management Information Systems.
+- Currently employed at Tesla in the Robotics Department.
+- I am a detail-oriented individual with a strong passion for continuous learning.
+- Striving to become a software expert and continuously improve my skills each day.
+- Currently seeking new opportunities while training in firmware, embedded software engineering, and software testing.
+- Here on my portfolio, you can explore some of the projects I am most proud of.
+
+| Favorite Languages |
+| ----------- |
+| C++ | 
+| Python |
+| SQL |
